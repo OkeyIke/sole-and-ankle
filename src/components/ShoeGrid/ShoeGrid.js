@@ -20,7 +20,6 @@ const Wrapper = styled.div`
   display: flex;
   flex-wrap: wrap;
   gap: 32px;
-  justify-content: stretch;
 `
 const ShoeWrapper = styled.div`
   min-width: 340px;
